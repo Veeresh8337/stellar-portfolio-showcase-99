@@ -32,7 +32,7 @@ export default function NavBar() {
     >
       <div className="container mx-auto px-4 h-16 flex items-center justify-between">
         <a href="#home" className="text-xl font-heading font-bold">
-          <span className="text-primary">Y</span>ourName
+          <span className="text-primary">V</span>eeresh
         </a>
         
         {/* Desktop Navigation */}

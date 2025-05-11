@@ -10,7 +10,7 @@ export default function Footer() {
         <div className="flex flex-col md:flex-row justify-between items-center">
           <div className="mb-6 md:mb-0">
             <a href="#home" className="text-xl font-heading font-bold">
-              <span className="text-primary">Y</span>ourName
+              <span className="text-primary">V</span>eeresh
             </a>
             <p className="text-sm text-muted-foreground mt-2">
               Building robust backend solutions with clean code.
@@ -79,7 +79,7 @@ export default function Footer() {
         
         <div className="border-t border-border mt-8 pt-8 text-center">
           <p className="text-sm text-muted-foreground">
-            © {currentYear} YourName. All rights reserved.
+            © {currentYear} Veeresh Hindiholi. All rights reserved.
           </p>
         </div>
       </div>

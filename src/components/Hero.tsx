@@ -11,7 +11,7 @@ export default function Hero() {
             <div className="space-y-3">
               <p className="text-primary font-medium">Hello, my name is</p>
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold">
-                Your Name
+                VEERESH HINDIHOLI
               </h1>
               <h2 className="text-2xl md:text-3xl lg:text-4xl text-muted-foreground font-medium">
                 I'm a <span className="text-gradient">Backend Developer</span>
@@ -51,7 +51,7 @@ export default function Hero() {
               <div className="absolute inset-0 rounded-full bg-gradient-to-r from-primary to-blue-600 opacity-20 blur-3xl"></div>
               <div className="absolute inset-2 rounded-full bg-background"></div>
               <div className="absolute inset-4 rounded-full bg-gradient-to-r from-primary to-blue-600 flex items-center justify-center text-5xl font-bold text-white">
-                YN
+                VH
               </div>
             </div>
           </div>
